@@ -1,2 +1,2 @@
-# Modification faite en local
 
+# Git Conflict Challenge - conflit résolu
